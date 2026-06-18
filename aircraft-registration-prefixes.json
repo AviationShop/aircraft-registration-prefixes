@@ -1,0 +1,706 @@
+[
+  {
+    "prefix": "A2",
+    "country": "Botswana"
+  },
+  {
+    "prefix": "A3",
+    "country": "Tonga"
+  },
+  {
+    "prefix": "A40",
+    "country": "Oman"
+  },
+  {
+    "prefix": "A5",
+    "country": "Bhutan"
+  },
+  {
+    "prefix": "A6",
+    "country": "United Arab Emirates"
+  },
+  {
+    "prefix": "A7",
+    "country": "Qatar"
+  },
+  {
+    "prefix": "A9C",
+    "country": "Bahrain"
+  },
+  {
+    "prefix": "AP",
+    "country": "Pakistan"
+  },
+  {
+    "prefix": "B",
+    "country": "China / Taiwan"
+  },
+  {
+    "prefix": "C",
+    "country": "Canada"
+  },
+  {
+    "prefix": "CC",
+    "country": "Chile"
+  },
+  {
+    "prefix": "CN",
+    "country": "Morocco"
+  },
+  {
+    "prefix": "CP",
+    "country": "Bolivia"
+  },
+  {
+    "prefix": "CS",
+    "country": "Portugal"
+  },
+  {
+    "prefix": "CU",
+    "country": "Cuba"
+  },
+  {
+    "prefix": "CX",
+    "country": "Uruguay"
+  },
+  {
+    "prefix": "D",
+    "country": "Germany"
+  },
+  {
+    "prefix": "D2",
+    "country": "Angola"
+  },
+  {
+    "prefix": "D4",
+    "country": "Cape Verde"
+  },
+  {
+    "prefix": "D6",
+    "country": "Comoros"
+  },
+  {
+    "prefix": "DQ",
+    "country": "Fiji"
+  },
+  {
+    "prefix": "E3",
+    "country": "Eritrea"
+  },
+  {
+    "prefix": "E5",
+    "country": "Cook Islands"
+  },
+  {
+    "prefix": "E7",
+    "country": "Bosnia and Herzegovina"
+  },
+  {
+    "prefix": "EC",
+    "country": "Spain"
+  },
+  {
+    "prefix": "EI",
+    "country": "Ireland"
+  },
+  {
+    "prefix": "EK",
+    "country": "Armenia"
+  },
+  {
+    "prefix": "EP",
+    "country": "Iran"
+  },
+  {
+    "prefix": "ER",
+    "country": "Moldova"
+  },
+  {
+    "prefix": "ES",
+    "country": "Estonia"
+  },
+  {
+    "prefix": "ET",
+    "country": "Ethiopia"
+  },
+  {
+    "prefix": "EW",
+    "country": "Belarus"
+  },
+  {
+    "prefix": "EX",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "prefix": "EY",
+    "country": "Tajikistan"
+  },
+  {
+    "prefix": "EZ",
+    "country": "Turkmenistan"
+  },
+  {
+    "prefix": "F",
+    "country": "France"
+  },
+  {
+    "prefix": "G",
+    "country": "United Kingdom"
+  },
+  {
+    "prefix": "H4",
+    "country": "Solomon Islands"
+  },
+  {
+    "prefix": "HA",
+    "country": "Hungary"
+  },
+  {
+    "prefix": "HB",
+    "country": "Switzerland / Liechtenstein"
+  },
+  {
+    "prefix": "HC",
+    "country": "Ecuador"
+  },
+  {
+    "prefix": "HH",
+    "country": "Haiti"
+  },
+  {
+    "prefix": "HI",
+    "country": "Dominican Republic"
+  },
+  {
+    "prefix": "HK",
+    "country": "Colombia"
+  },
+  {
+    "prefix": "HL",
+    "country": "South Korea"
+  },
+  {
+    "prefix": "HP",
+    "country": "Panama"
+  },
+  {
+    "prefix": "HR",
+    "country": "Honduras"
+  },
+  {
+    "prefix": "HS",
+    "country": "Thailand"
+  },
+  {
+    "prefix": "HZ",
+    "country": "Saudi Arabia"
+  },
+  {
+    "prefix": "I",
+    "country": "Italy"
+  },
+  {
+    "prefix": "J2",
+    "country": "Djibouti"
+  },
+  {
+    "prefix": "J5",
+    "country": "Guinea-Bissau"
+  },
+  {
+    "prefix": "JA",
+    "country": "Japan"
+  },
+  {
+    "prefix": "JU",
+    "country": "Mongolia"
+  },
+  {
+    "prefix": "JY",
+    "country": "Jordan"
+  },
+  {
+    "prefix": "LN",
+    "country": "Norway"
+  },
+  {
+    "prefix": "LV",
+    "country": "Argentina"
+  },
+  {
+    "prefix": "LX",
+    "country": "Luxembourg"
+  },
+  {
+    "prefix": "LY",
+    "country": "Lithuania"
+  },
+  {
+    "prefix": "LZ",
+    "country": "Bulgaria"
+  },
+  {
+    "prefix": "N",
+    "country": "United States"
+  },
+  {
+    "prefix": "OB",
+    "country": "Peru"
+  },
+  {
+    "prefix": "OD",
+    "country": "Lebanon"
+  },
+  {
+    "prefix": "OE",
+    "country": "Austria"
+  },
+  {
+    "prefix": "OH",
+    "country": "Finland"
+  },
+  {
+    "prefix": "OK",
+    "country": "Czech Republic"
+  },
+  {
+    "prefix": "OM",
+    "country": "Slovakia"
+  },
+  {
+    "prefix": "OO",
+    "country": "Belgium"
+  },
+  {
+    "prefix": "OY",
+    "country": "Denmark"
+  },
+  {
+    "prefix": "P",
+    "country": "North Korea"
+  },
+  {
+    "prefix": "PH",
+    "country": "Netherlands"
+  },
+  {
+    "prefix": "PJ",
+    "country": "Curacao / Sint Maarten"
+  },
+  {
+    "prefix": "PK",
+    "country": "Indonesia"
+  },
+  {
+    "prefix": "PP",
+    "country": "Brazil"
+  },
+  {
+    "prefix": "PZ",
+    "country": "Suriname"
+  },
+  {
+    "prefix": "RA",
+    "country": "Russia"
+  },
+  {
+    "prefix": "RDPL",
+    "country": "Laos"
+  },
+  {
+    "prefix": "RP",
+    "country": "Philippines"
+  },
+  {
+    "prefix": "S2",
+    "country": "Bangladesh"
+  },
+  {
+    "prefix": "S5",
+    "country": "Slovenia"
+  },
+  {
+    "prefix": "S7",
+    "country": "Seychelles"
+  },
+  {
+    "prefix": "S9",
+    "country": "Sao Tome and Principe"
+  },
+  {
+    "prefix": "SE",
+    "country": "Sweden"
+  },
+  {
+    "prefix": "SP",
+    "country": "Poland"
+  },
+  {
+    "prefix": "ST",
+    "country": "Sudan"
+  },
+  {
+    "prefix": "SU",
+    "country": "Egypt"
+  },
+  {
+    "prefix": "SX",
+    "country": "Greece"
+  },
+  {
+    "prefix": "T7",
+    "country": "San Marino"
+  },
+  {
+    "prefix": "TC",
+    "country": "Turkey"
+  },
+  {
+    "prefix": "TF",
+    "country": "Iceland"
+  },
+  {
+    "prefix": "TG",
+    "country": "Guatemala"
+  },
+  {
+    "prefix": "TI",
+    "country": "Costa Rica"
+  },
+  {
+    "prefix": "TJ",
+    "country": "Cameroon"
+  },
+  {
+    "prefix": "TN",
+    "country": "Republic of the Congo"
+  },
+  {
+    "prefix": "TR",
+    "country": "Gabon"
+  },
+  {
+    "prefix": "TS",
+    "country": "Tunisia"
+  },
+  {
+    "prefix": "TT",
+    "country": "Chad"
+  },
+  {
+    "prefix": "TU",
+    "country": "Cote d'Ivoire"
+  },
+  {
+    "prefix": "TY",
+    "country": "Benin"
+  },
+  {
+    "prefix": "TZ",
+    "country": "Mali"
+  },
+  {
+    "prefix": "UK",
+    "country": "Uzbekistan"
+  },
+  {
+    "prefix": "UN",
+    "country": "Kazakhstan"
+  },
+  {
+    "prefix": "UR",
+    "country": "Ukraine"
+  },
+  {
+    "prefix": "V2",
+    "country": "Antigua and Barbuda"
+  },
+  {
+    "prefix": "V3",
+    "country": "Belize"
+  },
+  {
+    "prefix": "V4",
+    "country": "Saint Kitts and Nevis"
+  },
+  {
+    "prefix": "V5",
+    "country": "Namibia"
+  },
+  {
+    "prefix": "V7",
+    "country": "Marshall Islands"
+  },
+  {
+    "prefix": "V8",
+    "country": "Brunei"
+  },
+  {
+    "prefix": "VH",
+    "country": "Australia"
+  },
+  {
+    "prefix": "VN",
+    "country": "Vietnam"
+  },
+  {
+    "prefix": "VP-B",
+    "country": "Bermuda"
+  },
+  {
+    "prefix": "VT",
+    "country": "India"
+  },
+  {
+    "prefix": "XA",
+    "country": "Mexico"
+  },
+  {
+    "prefix": "XT",
+    "country": "Burkina Faso"
+  },
+  {
+    "prefix": "XU",
+    "country": "Cambodia"
+  },
+  {
+    "prefix": "XY",
+    "country": "Myanmar"
+  },
+  {
+    "prefix": "YA",
+    "country": "Afghanistan"
+  },
+  {
+    "prefix": "YI",
+    "country": "Iraq"
+  },
+  {
+    "prefix": "YJ",
+    "country": "Vanuatu"
+  },
+  {
+    "prefix": "YK",
+    "country": "Syria"
+  },
+  {
+    "prefix": "YL",
+    "country": "Latvia"
+  },
+  {
+    "prefix": "YN",
+    "country": "Nicaragua"
+  },
+  {
+    "prefix": "YR",
+    "country": "Romania"
+  },
+  {
+    "prefix": "YS",
+    "country": "El Salvador"
+  },
+  {
+    "prefix": "YU",
+    "country": "Serbia"
+  },
+  {
+    "prefix": "YV",
+    "country": "Venezuela"
+  },
+  {
+    "prefix": "Z",
+    "country": "Zimbabwe"
+  },
+  {
+    "prefix": "Z3",
+    "country": "North Macedonia"
+  },
+  {
+    "prefix": "ZA",
+    "country": "Albania"
+  },
+  {
+    "prefix": "ZK",
+    "country": "New Zealand"
+  },
+  {
+    "prefix": "ZP",
+    "country": "Paraguay"
+  },
+  {
+    "prefix": "ZS",
+    "country": "South Africa"
+  },
+  {
+    "prefix": "3A",
+    "country": "Monaco"
+  },
+  {
+    "prefix": "3B",
+    "country": "Mauritius"
+  },
+  {
+    "prefix": "3C",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "prefix": "3D",
+    "country": "Eswatini"
+  },
+  {
+    "prefix": "3X",
+    "country": "Guinea"
+  },
+  {
+    "prefix": "4K",
+    "country": "Azerbaijan"
+  },
+  {
+    "prefix": "4L",
+    "country": "Georgia"
+  },
+  {
+    "prefix": "4O",
+    "country": "Montenegro"
+  },
+  {
+    "prefix": "4R",
+    "country": "Sri Lanka"
+  },
+  {
+    "prefix": "4X",
+    "country": "Israel"
+  },
+  {
+    "prefix": "5A",
+    "country": "Libya"
+  },
+  {
+    "prefix": "5B",
+    "country": "Cyprus"
+  },
+  {
+    "prefix": "5H",
+    "country": "Tanzania"
+  },
+  {
+    "prefix": "5N",
+    "country": "Nigeria"
+  },
+  {
+    "prefix": "5R",
+    "country": "Madagascar"
+  },
+  {
+    "prefix": "5T",
+    "country": "Mauritania"
+  },
+  {
+    "prefix": "5U",
+    "country": "Niger"
+  },
+  {
+    "prefix": "5V",
+    "country": "Togo"
+  },
+  {
+    "prefix": "5W",
+    "country": "Samoa"
+  },
+  {
+    "prefix": "5X",
+    "country": "Uganda"
+  },
+  {
+    "prefix": "5Y",
+    "country": "Kenya"
+  },
+  {
+    "prefix": "6V",
+    "country": "Senegal"
+  },
+  {
+    "prefix": "6Y",
+    "country": "Jamaica"
+  },
+  {
+    "prefix": "7O",
+    "country": "Yemen"
+  },
+  {
+    "prefix": "7P",
+    "country": "Lesotho"
+  },
+  {
+    "prefix": "7Q",
+    "country": "Malawi"
+  },
+  {
+    "prefix": "7T",
+    "country": "Algeria"
+  },
+  {
+    "prefix": "8P",
+    "country": "Barbados"
+  },
+  {
+    "prefix": "8Q",
+    "country": "Maldives"
+  },
+  {
+    "prefix": "8R",
+    "country": "Guyana"
+  },
+  {
+    "prefix": "9A",
+    "country": "Croatia"
+  },
+  {
+    "prefix": "9G",
+    "country": "Ghana"
+  },
+  {
+    "prefix": "9H",
+    "country": "Malta"
+  },
+  {
+    "prefix": "9J",
+    "country": "Zambia"
+  },
+  {
+    "prefix": "9K",
+    "country": "Kuwait"
+  },
+  {
+    "prefix": "9L",
+    "country": "Sierra Leone"
+  },
+  {
+    "prefix": "9M",
+    "country": "Malaysia"
+  },
+  {
+    "prefix": "9N",
+    "country": "Nepal"
+  },
+  {
+    "prefix": "9Q",
+    "country": "DR Congo"
+  },
+  {
+    "prefix": "9U",
+    "country": "Burundi"
+  },
+  {
+    "prefix": "9V",
+    "country": "Singapore"
+  },
+  {
+    "prefix": "9XR",
+    "country": "Rwanda"
+  },
+  {
+    "prefix": "9Y",
+    "country": "Trinidad and Tobago"
+  }
+]
